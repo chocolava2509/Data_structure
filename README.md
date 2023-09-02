@@ -5,3 +5,4 @@
 4. Add two number
 5-Unique path2
 6-Best Time to Buy and Sell Stock with Cooldown
+7-Distinct Subsequences
