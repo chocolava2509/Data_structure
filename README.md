@@ -18,3 +18,4 @@
 17-Distinct subsequence  
 18-Minimum deletion required to make frequency unique
 19-Top View of Binary Tree
+20-Maximum width of binary tree
