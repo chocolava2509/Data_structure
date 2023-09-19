@@ -21,3 +21,4 @@
 20-Maximum width of binary tree
 21- Construct Binary Tree from Preorder and Inorder Traversal
 22-Gas Station
+23-First unique char in string
