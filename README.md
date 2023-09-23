@@ -24,3 +24,4 @@
 23-First unique char in string
 24-Longest Palindromic Substring
 25-Convert sorted List to BST
+26-Evaluate Reverse Polish Notation
