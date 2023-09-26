@@ -27,3 +27,4 @@
 26-Evaluate Reverse Polish Notation
 27-Check for Balance Tree 
 28-Binary Tree Maximum Path Sum
+29-Path With Minmum Effort
