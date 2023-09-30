@@ -31,3 +31,4 @@
 30-Koko eating bananas
 31-Minimum number of days to make m Bouquet
 32-Generate IP Addressess
+33-3 Sum
