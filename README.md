@@ -34,3 +34,4 @@
 33-3 Sum
 34-Find all possible palindromic partitions of a String
 35-Unique partitions
+36-Minimum cost to cut a stick
