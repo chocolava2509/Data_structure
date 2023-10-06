@@ -36,3 +36,4 @@
 35-Unique partitions
 36-Minimum cost to cut a stick
 37-ZigZag Conversion
+38-Palindrome Number
