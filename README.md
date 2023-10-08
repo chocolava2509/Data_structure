@@ -38,3 +38,4 @@
 37-ZigZag Conversion
 38-Palindrome Number
 39-Remove Elements
+40-ones and zeroes
