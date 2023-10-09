@@ -39,3 +39,4 @@
 38-Palindrome Number
 39-Remove Elements
 40-ones and zeroes
+41-Minimum cost for tickets
