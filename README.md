@@ -41,3 +41,4 @@
 40-ones and zeroes
 41-Minimum cost for tickets
 42-Add two number
+43-Triangle
