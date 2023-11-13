@@ -48,3 +48,4 @@
 47-Swapping Nodes in a Linked List
 48-Minimum Absolute Difference in BST
 49-Number of segment in string
+50-Partion equal subset sum
